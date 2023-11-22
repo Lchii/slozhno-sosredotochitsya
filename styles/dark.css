@@ -8,7 +8,7 @@
     --text-color: #f1b2ce;
     --title-decor-color: #000028;
     --title-color: #ff0070;
-    --display-bulb: block;
+    --display-bulb: flex;
   }
 
   .page {
@@ -25,6 +25,6 @@
   --text-color: #f1b2ce;
   --title-decor-color: #000028;
   --title-color: #ff0070;
-  --display-bulb: block;
+  --display-bulb: flex;
   background-image: url(../images/cover-image-dark.png);
 }
